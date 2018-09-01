@@ -1,2 +1,3 @@
+xxxxxxx
 Git is free software.
 select count(1) from use_event_log where cycle_time = '20180901' and app_code = 'FDM' and event_name not like '%flag' and record_time is not null
