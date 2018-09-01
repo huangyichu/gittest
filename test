@@ -1,3 +1,7 @@
 xxxxv xxxxxxx
+<<<<<<< HEAD
 xxitm isisdfsdf free software.
+=======
+lalitm is free software.
+>>>>>>> 3dc089036fbb3319b115be9b5d08940313a3fd01
 select count(1) from use_event_log where cycle_time = '20180901' and app_code = 'FDM' and event_name not like '%flag' and record_time is not null
